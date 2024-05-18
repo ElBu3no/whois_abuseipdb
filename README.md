@@ -21,7 +21,7 @@ This Python script provides functionalities to gather information about IP addre
 4. Obtain API keys for the AbuseIPDB API and IPinfo API.
 5. Create a file named `ips.txt` containing the list of IP addresses you want to analyze, with each IP address on a new line.
 6. Replace the placeholder API keys (`XXXXX`) with your actual API keys in the script.
-7. Run the script using the following command: python whois_abuseipdb.py
+7. Run the script using the following command: `python whois_abuseipdb.py`
 9. View the results printed in the console.
 
 ## Notes
